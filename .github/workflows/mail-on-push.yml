@@ -11,6 +11,6 @@ jobs:
          username: ${{secrets.MAIL_USERNAME}}
          password: ${{secrets.MAIL_PASSWORD}}
          subject: ase
-         body: ase
-         to: ang.tulusa@gmail.com
+         body: chtonibud eshe
+         to: artjomvolk123@gmail.com
          from: Github actions
